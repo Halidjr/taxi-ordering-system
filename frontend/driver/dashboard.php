@@ -1,3 +1,4 @@
+<!-- US-04: Driver availability feature -->
 <?php
 require_once '../../backend/config.php';
 check_role('driver');
