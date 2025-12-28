@@ -1,4 +1,5 @@
-<!-- US-04: Driver availability feature -->
+// Sprint 2: View ride status enhancement
+
 <?php
 require_once '../../backend/config.php';
 check_role('driver');
